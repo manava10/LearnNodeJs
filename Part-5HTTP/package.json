@@ -1,0 +1,15 @@
+{
+  "name": "part-5http",
+  "version": "1.0.0",
+  "description": "Learning to write the HTTP server",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "\\",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "url": "^0.11.4"
+  }
+}
